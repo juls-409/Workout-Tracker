@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Workout Tracker</string>
+    <string name="save">SAVE</string>
+    <string name="rest_interval_in_seconds">Rest Interval In Seconds</string>
+    <string name="add_number_of_sets">Add Number of Sets</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="add_workout">Add Workout</string>
+    <string name="list_item_one">List Item One</string>
+    <string name="reset_set">Reset Set</string>
+    <string name="increase_set">Increase Set</string>
+    <string name="set">Set:</string>
+</resources>
